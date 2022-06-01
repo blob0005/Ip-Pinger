@@ -1,4 +1,4 @@
-# Ip-Pinger
+# Amazon-Giftcard-Generator
 
 Setup:
 
