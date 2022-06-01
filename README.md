@@ -1,4 +1,5 @@
-# Ip-Pinger
+# Amazon-Giftcard-Generator
+
 Setup:
 
 1. download python (https://python.org)
