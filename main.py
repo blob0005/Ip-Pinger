@@ -3,7 +3,7 @@ import os
 try:
     import os
     from os import system
-    system("title " + "Ip Pinger")
+    system("title " + "Ip Pinger,   Made By blob#0005,   Github: github.com/blob0005")
 except:
     pass
 
